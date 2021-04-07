@@ -170,25 +170,28 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Teaching Assistant",  
+      role: "Information Technology Services",  
       company: "Northeastern University",
       companylogo: require("./assets/images/northeastern.png"),
-      date: "June 2020 – Present",
-      desc: "Graduate Teaching Assistant | CSYE 7230 : Software Engineering",
+      date: "September 2020 – Present",
+      desc: "Instructional Assistant ",
       descBullets: [
-        "Mentored students to learn Software Development Life Cycle [SDLC] & formulating UML Diagrams",
-        "Graded assignments of students weekly, assessed their performance and provided them with project feedback"
+        "	Integrated big databases of meeting links and on-premise operations using Pandas data frames and generated work distribution for 300 On-Premise operators "
+        "	Fetched generated data using SqlAlchemy, React-Hooks and stored in Redux store using actions, reducer pattern"
+       " 	Assisted faculties with problem solving and troubleshooting the issues during on-going classes with hybrid teaching technologies "
+        
       ]
     },
     {
-      role: "Web Developer",   
+      role: "Junior Software Engineer",   
       company: "DA-IICT",
       companylogo: require("./assets/images/dhirubhai.png"),
-      date: "May 2018 – July 2018",
-      desc: "Designed & developed a full-stack web application to help end-users visualize how different patterns & combinations of tiles would look in their space",
+      date: "May 2018 – April 2019",
+      desc: "",
       descBullets: [
-        "Used HTML5, CSS3, Bootstrap, JavaScript, jQuery, and Firebase as database",
-        "Led a 4-person team, following an Agile software development life cycle and worked on Microsoft’s GIT platform in Visual Studio Team Services"
+        "	Involved in the major steps of software development life cycle such as understand requirements, design, code and testing phases of application following Agile Development Methodology "
+        "	Collaborated with cross-functional team of technical and non-technical team members to implement all level complexity tasks"
+
       ]
     }
   ]
@@ -199,7 +202,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "DeepGamit", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "dhanur07", // Change to your github username to view your profile in Contact Section.
   showGithubProfile :"false" // Set true or false to show Contact profile using Github, defaults to false 
 };
 
@@ -208,23 +211,23 @@ const openSource = {
 
 const achievementSection = {
 
-  title: emoji("Achievements And Certifications 🏆 "),
-  subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  title: emoji("Publications 🏆 "),
+  subtitle: "Some of my publications !",
 
   achivementsCards: [
     {
-      title: "AWS Certified Cloud Practitioner",
+      title: "Survey of Health Care Industries by studying the architecture and functionality of Big Data Analytics.",
       subtitle: "",
-      image: require("./assets/images/aws_cloud.png"),
+     // image: require("./assets/images/aws_cloud.png"),
       footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/1Mgpbw33R9q3QgZmAJJtQoosT2uaPu1r1/view?usp=sharing" }
+        { name: "Publication", url: "http://www.ijesrt.com/issues%20pdf%20file/Archive-2018/August-2018/68.pdf" }
       ]
     },
     {
-      title: "JP Morgan Software Engineering Virtual Experience",
+      title: "The study and survey point up massive data utilization and techniques used in Higher Education System.",
       subtitle: "",
-      image: require("./assets/images/jp_virtual.jpg"),
-      footerLink: [{ name: "Certification", url: "https://drive.google.com/file/d/1paiVe3UdO4pzgOWaURnwECGH7lJmD0Dq/view?usp=sharing" }]
+     // image: require("./assets/images/jp_virtual.jpg"),
+      footerLink: [{ name: "Publication", url: " http://www.ijesrt.com/issues%20pdf%20file/Archive-2018/August-2018/70.pdf" }]
     }
   ]
 };
@@ -232,8 +235,8 @@ const achievementSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+1-(609)-836-4450",
-  email_address: "gamit.d@northeastern.edu"
+  number: "+1-(617) -821-4571",
+  email_address: "motwani.d@northeastern.edu"
 };
 
 
