@@ -176,9 +176,9 @@ const workExperiences = {
       date: "September 2020 – Present",
       desc: "Instructional Assistant ",
       descBullets: [
-        "	Integrated big databases of meeting links and on-premise operations using Pandas data frames and generated work distribution for 300 On-Premise operators "
-        "	Fetched generated data using SqlAlchemy, React-Hooks and stored in Redux store using actions, reducer pattern"
-       " 	Assisted faculties with problem solving and troubleshooting the issues during on-going classes with hybrid teaching technologies "
+        "Integrated big databases of meeting links and on-premise operations using Pandas data frames and generated work distribution for 300 On-Premise operators ",
+        "Fetched generated data using SqlAlchemy, React-Hooks and stored in Redux store using actions, reducer pattern",
+       " Assisted faculties with problem solving and troubleshooting the issues during on-going classes with hybrid teaching technologies "
         
       ]
     },
@@ -189,8 +189,8 @@ const workExperiences = {
       date: "May 2018 – April 2019",
       desc: "",
       descBullets: [
-        "	Involved in the major steps of software development life cycle such as understand requirements, design, code and testing phases of application following Agile Development Methodology "
-        "	Collaborated with cross-functional team of technical and non-technical team members to implement all level complexity tasks"
+        "Involved in the major steps of software development life cycle such as understand requirements, design, code and testing phases of application following Agile Development Methodology ",
+        "Collaborated with cross-functional team of technical and non-technical team members to implement all level complexity tasks"
 
       ]
     }
