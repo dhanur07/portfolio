@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "622509a2bec262d72c30c1911567eac1",
+    "revision": "35f0818890ec16d93301e5b0f2ecf3de",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "64fd126ce94daa0bd536",
+    "revision": "be9c61fbee7f8390bf5e",
     "url": "/portfolio/static/css/3.70d62d19.chunk.css"
   },
   {
-    "revision": "f8fb76ed45b38ce2b1dd",
+    "revision": "e7df251538c3b248f661",
     "url": "/portfolio/static/css/4.01c87591.chunk.css"
   },
   {
-    "revision": "66879085a9e06a4becf3",
+    "revision": "894877a3a61fde45e110",
     "url": "/portfolio/static/css/main.656d5c15.chunk.css"
   },
   {
-    "revision": "4a6059491016fd54f0b9",
-    "url": "/portfolio/static/js/2.2b591a3a.chunk.js"
+    "revision": "f17cdf980b89b859de1e",
+    "url": "/portfolio/static/js/2.2589d959.chunk.js"
   },
   {
-    "revision": "64fd126ce94daa0bd536",
-    "url": "/portfolio/static/js/3.71f6655a.chunk.js"
+    "revision": "be9c61fbee7f8390bf5e",
+    "url": "/portfolio/static/js/3.f348f292.chunk.js"
   },
   {
-    "revision": "f8fb76ed45b38ce2b1dd",
-    "url": "/portfolio/static/js/4.fdf5d3e9.chunk.js"
+    "revision": "e7df251538c3b248f661",
+    "url": "/portfolio/static/js/4.c80c8375.chunk.js"
   },
   {
-    "revision": "66879085a9e06a4becf3",
-    "url": "/portfolio/static/js/main.f16701d1.chunk.js"
+    "revision": "894877a3a61fde45e110",
+    "url": "/portfolio/static/js/main.041b0b65.chunk.js"
   },
   {
-    "revision": "34216c629b69f832263f",
-    "url": "/portfolio/static/js/runtime-main.daba715d.js"
+    "revision": "1d4ed491d3ac9ac37271",
+    "url": "/portfolio/static/js/runtime-main.90a42853.js"
+  },
+  {
+    "revision": "182fb7bc3b5c511bef7b04364c095f48",
+    "url": "/portfolio/static/media/1561965067471.182fb7bc.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/NodejsOriginalWordmark.fdc7d97e.svg"
   },
   {
+    "revision": "367243cfa54e23fce2e6245b0de716fe",
+    "url": "/portfolio/static/media/add_256.367243cf.png"
+  },
+  {
     "revision": "68e841388612be0c5143e2932fb77d4f",
     "url": "/portfolio/static/media/contactMail.68e84138.webp"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/portfolio/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "257721d63ac2396e7ef494b509df2600",
-    "url": "/portfolio/static/media/dhirubhai.257721d6.png"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
