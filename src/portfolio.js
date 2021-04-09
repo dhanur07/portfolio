@@ -11,7 +11,7 @@ const greeting = {
   username: "Dhanur Motwani",
   title: "Hi, I'm Dhanur",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of building Web Applications with JavaScript / Reactjs / Nodejs / Redux and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1zrYxIg9ZIxKdcVJuiLs_iT7NcnfS-3mQ/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1a7xbtkVNnH8AUpoG51spf-Y2fGeglDo9/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -21,11 +21,9 @@ const socialMediaLinks = {
   github: "https://github.com/dhanur07",
   linkedin: "https://www.linkedin.com/in/deepgamit2105/",
   gmail: "dhanurmotwani07@gmail.com",
-  // gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/deepkgamit",
-  instagram: "https://www.instagram.com/deep_gamit21/"
-  // medium: "https://medium.com/@saadpasta",
-  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta"
+  facebook: "https://www.facebook.com/dhanur.motwani/",
+  instagram: "https://www.instagram.com/dhanurmotwani/"
+  
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -76,6 +74,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "devicon-bootstrap-plain"
     },
     {
+      skillName: "Figma",
+      fontAwesomeClassname: "fab fa-figma"
+    },
+    {
       skillName: "MySQL",
       fontAwesomeClassname: "devicon-mysql-plain"
     },
@@ -87,10 +89,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "AWS",
       fontAwesomeClassname: "devicon-amazonwebservices-plain"
     },
-    {
-      skillName: "Sequelize",
-      fontAwesomeClassname: "devicon-sequelize-plain"
-    },
+    
     {
       skillName: "Git",
       fontAwesomeClassname: "devicon-git-plain"
@@ -111,7 +110,7 @@ https://fontawesome.com/icons?d=gallery */
       {
         title: "Web Technologies",
         content : [
-          "HTML5", "CSS3", "Bootstrap", "ReactJs", "NodeJs", "ExpressJs", "Sequelize", "Redux", "JSX", "RESTful API", "GraphQL", "JSON"
+          "HTML5", "CSS3", "Bootstrap", "ReactJs", "NodeJs", "ExpressJs",  "Redux", "JSX", "RESTful API",  "JSON"
         ]
       }, 
       {
@@ -129,7 +128,7 @@ https://fontawesome.com/icons?d=gallery */
       {
         title: "Tools / Software",
         content : [
-          "Git", "GitHub Actions", "Terraform", "Packer", "Netbeans", "Visual Studio Code", "Eclipse", "Spring Tool Suite", "Postman", "Bitbucket"
+          "Git", "GitHub Actions", "Terraform", "Packer", "Netbeans", "Visual Studio Code", "Eclipse", "Spring Tool Suite", "Postman", "Bitbucket","Figma","Selenium HQ","UFT"
         ]
       },
       {
@@ -184,8 +183,8 @@ const workExperiences = {
     },
     {
       role: "Junior Software Engineer",   
-      company: "DA-IICT",
-      companylogo: require("./assets/images/dhirubhai.png"),
+      company: "Digiflux IT Solutions",
+      companylogo: require("./assets/images/1561965067471.png"),
       date: "May 2018 – April 2019",
       desc: "",
       descBullets: [
@@ -218,7 +217,7 @@ const achievementSection = {
     {
       title: "Survey of Health Care Industries by studying the architecture and functionality of Big Data Analytics.",
       subtitle: "",
-     // image: require("./assets/images/aws_cloud.png"),
+      image: require("./assets/images/add_256.png"),
       footerLink: [
         { name: "Publication", url: "http://www.ijesrt.com/issues%20pdf%20file/Archive-2018/August-2018/68.pdf" }
       ]
@@ -226,7 +225,7 @@ const achievementSection = {
     {
       title: "The study and survey point up massive data utilization and techniques used in Higher Education System.",
       subtitle: "",
-     // image: require("./assets/images/jp_virtual.jpg"),
+      image: require("./assets/images/add_256.png"),
       footerLink: [{ name: "Publication", url: " http://www.ijesrt.com/issues%20pdf%20file/Archive-2018/August-2018/70.pdf" }]
     }
   ]
